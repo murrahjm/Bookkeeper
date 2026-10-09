@@ -4,6 +4,7 @@
 ## Author: murrahjm
 ## Version: @project-version@
 ## SavedVariables: BookkeeperDB
+## X-Curse-Project-ID: 1735926
 ## IconTexture: Interface\Icons\INV_Misc_Book_09
 
 Core.lua
