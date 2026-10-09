@@ -1,0 +1,13 @@
+## Interface: 16001
+## Title: Bookkeeper
+## Notes: Saves the text of in-game books so you can read them later, on any character.
+## Author: murrahjm
+## Version: @project-version@
+## SavedVariables: BookkeeperDB
+## IconTexture: Interface\Icons\INV_Misc_Book_09
+
+Core.lua
+Capture.lua
+Library.lua
+Collections.lua
+Commands.lua
